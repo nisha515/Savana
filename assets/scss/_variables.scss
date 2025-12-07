@@ -1,0 +1,35 @@
+$primary: #C47A5E;
+$secondary: #513125;
+$success: #999999;
+$info: #8B8B8B;
+$light: #FFFFFF;
+$warning: #e9c2af;
+
+
+
+// Font-Size
+$font-size-base: 1rem;
+$h1-font-size: $font-size-base * 5.875;
+$h2-font-size: $font-size-base * 3.938;
+$h3-font-size: $font-size-base * 2.25;
+$h4-font-size: $font-size-base * 1.563;
+$h5-font-size: $font-size-base * 1.25;
+$h6-font-size: $font-size-base;
+
+
+$link-decoration: none;
+$input-border-radius: none;
+
+// Containers
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px
+);
+
+
+$navbar-light-color: rgb(90, 56, 43);
+$navbar-light-active-color: rgb(196, 122, 95);
+$navbar-light-hover-color: rgb(196, 122, 95);
